@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "643011181864",
+    "project_id": "myfirebaseproject007-3d605",
+    "storage_bucket": "myfirebaseproject007-3d605.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643011181864:android:0c0a03848765856864241d",
+        "android_client_info": {
+          "package_name": "com.dummyapps.globalchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRRS4r_i1DT8yieRWyv97H6djE2MxTnGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
